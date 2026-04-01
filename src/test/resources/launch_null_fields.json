@@ -1,0 +1,11 @@
+{
+  "id": "abc123",
+  "name": "Test Mission",
+  "flight_number": 99,
+  "date_utc": "2023-01-01T00:00:00.000Z",
+  "success": null,
+  "upcoming": true,
+  "details": null,
+  "failures": [],
+  "cores": []
+}
