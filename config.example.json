@@ -1,0 +1,18 @@
+{
+  "size": { "width": 1920, "height": 1080 },
+  "iteration_count": 5000000,
+  "output_path": "result.png",
+  "threads": 4,
+  "seed": 2.1324512,
+  "symmetry_level": 1,
+  "functions": [
+    { "name": "swirl",     "weight": 1.0 },
+    { "name": "horseshoe", "weight": 0.7 },
+    { "name": "spherical", "weight": 0.5 }
+  ],
+  "affine_params": [
+    { "a":  0.5, "b":  0.0, "c":  0.0, "d":  0.0, "e":  0.5, "f":  0.0 },
+    { "a":  0.5, "b":  0.0, "c":  0.5, "d":  0.0, "e":  0.5, "f":  0.0 },
+    { "a":  0.5, "b":  0.0, "c":  0.25,"d":  0.0, "e":  0.5, "f":  0.5 }
+  ]
+}
