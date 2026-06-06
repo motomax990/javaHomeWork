@@ -1,3 +1,11 @@
+### Maven ###
+target/
+dependency-reduced-pom.xml
+
+### Application data ###
+news.db
+*.db
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
